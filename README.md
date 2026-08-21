@@ -69,7 +69,7 @@ This dashboard provides a comprehensive overview of sales performance, allowing 
     Finally, a line chart tracks weekly sales and profit for the current year. This detailed view helps users monitor short-term performance and spot fluctuations. The chart also displays the average weekly sales and profit, with a clear visual              distinction   for weeks that are above or below the average, highlighting periods of strong or weak performance to guide a more detailed analysis.
   
 
-![Sales-Dashboard.png](https://github.com/GabryGit/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/Sales_Dashboard.png)
+![Sales-Dashboard.png](https://github.com/gcasarin/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/Sales_Dash.png)
 
 
 **- What's in Customer Dashboard -**
@@ -93,8 +93,7 @@ This dashboard is designed to provide marketing teams and management with a deta
     A detailed table highlights the top 10 customers by total profit. For each customer, the table provides key metrics such as their rank, total number of orders, current sales, current profit, and the date of their last order. This list is invaluable      for sales and marketing teams to identify and nurture the most profitable relationships.
 
 
-![Customer_Dashboard.png](https://github.com/GabryGit/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/Customer_Dashboard.png)
-
+![Customer_Dashboard.png](https://github.com/gcasarin/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/Customer_Dash.png)
 
 **- Dashboard Interactivity & User Experience -**
 
@@ -109,13 +108,11 @@ The dashboard is designed with robust interactive features to provide a flexible
 
   Users can easily navigate between the different dashboards to get a complete view of the data. Furthermore, the dashboard offers the flexibility to select any desired year, allowing users to conduct historical trend analysis and compare performance      across different periods. This ability to instantly switch between timeframes makes it a powerful tool for strategic planning and performance reviews.
 
-![Filters.png](https://github.com/GabryGit/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/filters.png)
+![Filters.png](https://github.com/gcasarin/Tableau_Project-Sales-and-Customer-Dashboard/blob/main/Charts/Filters_Panel.png)
 
 
 ### Links and Sources
 
-[[Sales Dashboard Link]](https://public.tableau.com/views/Sales_Dashboard_Project_17510126295020/SalesDash?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-  
-[[Customer Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/Customer_Dashboard_Project/CustomerDash)
+[[Tableau Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/Sales_Dashboard_Project_17510126295020/SalesDash)
 
 [[Data Analytics Master-Start2Impact University]](https://www.start2impact.it/master/data-science-analytics/)
