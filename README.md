@@ -1,6 +1,6 @@
 # Tableau Project: Sales Performance and Customer Analytics Dashboards
 
-You can find the dashboards published on my Tableau Public profile: [[Sales Dashboard Link]](https://public.tableau.com/views/Sales_Dashboard_Project_17510126295020/SalesDash?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [[Customer Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/Customer_Dashboard_Project/CustomerDash)
+You can find the dashboards published on my Tableau Public profile: [[Tableau Dashboard Link]](https://public.tableau.com/app/profile/gabriele.casarin/viz/Sales_Dashboard_Project_17510126295020/SalesDash)
 
 
 ### Table of Contents
